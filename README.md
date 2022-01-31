@@ -13,7 +13,9 @@ Nesse projeto, foram utilizadas as seguintes bibliotecas:
 ### **Outros artigos:**
 * Outliers em Data Science - https://www.linkedin.com/pulse/data-science-outliers-henrique-paes-de-souza/
 * Análise de dados Airbnb Barcelona - https://www.linkedin.com/pulse/an%C3%A1lise-do-airbnb-em-barcelona-henrique-paes-de-souza/
-*  Análise de dados da Covid-19 - https://www.linkedin.com/pulse/panorama-da-covid-19-henrique-paes-de-souza/
+* Churn Prediction - https://www.linkedin.com/pulse/churn-prediction-com-machine-learning-henrique-paes-de-souza/
+* Detecção de fraudes em cartão de crédito - https://www.linkedin.com/pulse/modelo-de-machine-learning-para-detec%C3%A7%C3%A3o-fraudes-em-paes-de-souza/
+
 
 ### **Contatos:**
 * [LinkedIn](www.linkedin.com/in/henriquepaes1)
